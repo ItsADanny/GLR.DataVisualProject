@@ -1,0 +1,208 @@
+{
+    "States":[
+      {
+         "naam":"Alabama",
+         "car_crash": 784 
+      },
+      {
+         "naam":"Alaska",
+         "car_crash": 60 
+      },
+      {
+         "naam":"Arizona",
+         "car_crash": 811
+      },
+      {
+         "naam":"Arkansas",
+         "car_crash": 491 
+      },
+      {
+         "naam":"California",
+         "car_crash": 3123
+      },
+      {
+         "naam":"Colorado",
+         "car_crash": 507
+      },
+      {
+         "naam":"Connecticut",
+         "car_crash": 257 
+      },
+      {
+         "naam":"Delaware",
+         "car_crash": 127 
+      },
+      {
+         "naam":"District of Columbia",
+         "car_crash": 23  
+      },
+      {
+         "naam":"Florida",
+         "car_crash": 2699  
+      },
+      {
+         "naam":"Georgia",
+         "car_crash": 1329 
+      },
+      {
+         "naam":"Hawaii",
+         "car_crash": 85  
+      },
+      {
+         "naam":"Idaho",
+         "car_crash": 198  
+      },
+      {
+         "naam":"Illinois",
+         "car_crash": 914  
+      },
+      {
+         "naam":"Indiana",
+         "car_crash": 752 
+      },
+      {
+         "naam":"Iowa",
+         "car_crash": 282
+      },
+      {
+         "naam":"Kansas",
+         "car_crash": 322
+      },
+      {
+         "naam":"Kentucky",
+         "car_crash": 694
+      },
+      {
+         "naam":"Louisiana",
+         "car_crash": 698 
+      },
+      {
+         "naam":"Maine",
+         "car_crash": 144
+      },
+      {
+         "naam":"Maryland",
+         "car_crash": 479
+      },
+      {
+         "naam":"Massachusetts",
+         "car_crash": 327
+      },
+      {
+         "naam":"Michigan",
+         "car_crash": 896    
+  },
+      {
+         "naam":"Minnesota",
+         "car_crash": 375   
+   },
+      {
+         "naam":"Mississippi",
+         "car_crash": 604
+      },
+      {
+         "naam":"Missouri",
+         "car_crash": 803
+      },
+      {
+         "naam":"Montana",
+         "car_crash": 204
+      },
+      {
+         "naam":"Nebraska",
+         "car_crash": 218
+      },
+      {
+         "naam":"Nevada",
+         "car_crash": 297
+      },
+      {
+         "naam":"New_Hampshire",
+         "car_crash": 103
+      },
+      {
+         "naam":"New_Jersey",
+         "car_crash": 521
+      },
+      {
+         "naam":"New_Mexico",
+         "car_crash": 269
+      },
+      {
+         "naam":"New_York",
+         "car_crash": 1061
+      },
+      {
+         "naam":"North_Carolina",
+         "car_crash": 1275
+      },
+      {
+         "naam":"North_Dakota",
+         "car_crash": 111 
+      },
+      {
+         "naam":"Ohio",
+         "car_crash": 1029
+      },
+      {
+         "naam":"Oklahoma",
+         "car_crash": 590
+      },
+      {
+         "naam":"Oregon",
+         "car_crash": 410 
+      },
+      {
+         "naam":"Pennsylvania",
+         "car_crash": 1102
+      },
+      {
+         "naam":"Rhode_Island",
+         "car_crash": 41 
+      },
+      {
+         "naam":"South_Carolina",
+         "car_crash": 911
+      },
+      {
+         "naam":"South_Dakota",
+         "car_crash": 116
+      },
+      {
+         "naam":"Tennessee",
+         "car_crash": 888
+      },
+      {
+         "naam":"Texas",
+         "car_crash": 3190
+      },
+      {
+         "naam":"Utah",
+         "car_crash": 258
+      },
+      {
+         "naam":"Vermont",
+         "car_crash": 50
+      },
+      {
+         "naam":"Virginia",
+         "car_crash": 712
+      },
+      {
+         "naam":"Washington",
+         "car_crash": 499
+      },
+      {
+         "naam":"West_Virginia",
+         "car_crash": 246
+      },
+      {
+         "naam":"Wisconsin",
+         "car_crash": 552
+      },
+      {
+         "naam":"Wyoming",
+         "car_crash": 100
+      }
+    ]
+}
